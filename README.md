@@ -14,3 +14,7 @@
 
 ## 📫 Connect with Me
 #[LinkedIn](https://www.linkedin.com/in/nithyacherala/) 
+
+## 🏅 Achievements
+
+[![An image of @nemo0904's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nemo0904)](https://holopin.io/@nemo0904)
