@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm Nithya!
 
-<!--
-**Nemo-0904/Nemo-0904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Electronics Engineering student at VJTI, Mumbai  
+💡 Exploring intersections of Electronics ⚡ + Computer Science 💻  
+🔭 Working on robotics, 3D visualization, and full-stack projects  
+📈 Preparing for placements in embedded systems and software engineering  
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Languages:** C++, Python, JavaScript  
+- **Frameworks:** React, Node.js, Flask  
+- **Tools:** ROS, Three.js, MediaPipe, MATLAB  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🤖 [Robot Control Web App](https://github.com/your-repo-link)
+- 🧠 [Gesture-Controlled Hexapod](https://github.com/your-repo-link)
+- 💳 [Full-Stack E-commerce Platform](https://github.com/your-repo-link)
+
+## 📫 Connect with Me
+#[LinkedIn](https://www.linkedin.com/in/nithyacherala/) 
