@@ -17,4 +17,9 @@
 
 ## 🏅 Achievements
 
-[![An image of @nemo0904's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nemo0904)](https://holopin.io/@nemo0904)
+<p align="center">
+  <a href="https://holopin.io/@nemo0904">
+    <img src="https://holopin.me/nemo0904" alt="@nemo0904's Holopin Badges" />
+  </a>
+</p>
+
