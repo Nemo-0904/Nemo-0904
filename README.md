@@ -2,15 +2,14 @@
 
 🎓 Final-year **Electronics Engineering** student at **VJTI, Mumbai**  
 💡 Passionate about bridging **Electronics + Computer Science** — working on **Robotics**, **3D visualization**, and **Full-Stack Web Apps**  
-🚀 Actively exploring Embedded Systems, Automation, and Intelligent Control  
-
+🚀 Actively exploring Machine learning and Deep learning with a pinch of NLP. Worked on projects that are Full stack.
 ---
 
 ## 💻 Tech Stack
 
-**Languages:** C++, Python, JavaScript, C  
-**Frameworks & Tools:** React, Node.js, Flask, ROS, Three.js, MediaPipe, MATLAB  
-**Domains:** Robotics, Computer Vision, Control Systems, Full-Stack Development  
+**Languages:** C++, Python, JavaScript  
+**Frameworks & Tools:** React, Node.js, Flask, Three.js, MediaPipe  
+**Domains:** Robotics, Computer Vision, Full-Stack Development  
 
 ---
 
