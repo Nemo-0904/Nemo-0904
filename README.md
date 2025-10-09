@@ -13,10 +13,7 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- 🤖 **Robot Control Web App** – Full-stack web interface for controlling URDF-based robots using Three.js and ROS  
-- 🧠 **Gesture-Controlled Hexapod** – MediaPipe + Three.js-based robot simulation for hand gesture-driven motion control  
+## 🚀 Featured Projectsl  
 - 💳 **E-commerce Platform** – React + Node.js + Razorpay integration with OTP-based email verification  
 
 ---
